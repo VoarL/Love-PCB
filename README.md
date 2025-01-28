@@ -5,7 +5,7 @@ This is a a Repository containing the design to the Love PCB.
 
 [![License](https://img.shields.io/badge/License-Opensource-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/your_username/power-system-analysis-codes.svg)](https://github.com/VoarL/Love-PCB/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This is a a Repository containing the design to the Love PCB.
 
 ## Introduction
 
-In this repository, you will find the gerber files to create your own PCB for Valentines day or a special gift for a special someone.
+In this repository, you will find the repo to create your own PCB for Valentines day or a special gift for a special someone.
 
 ## Features
 
