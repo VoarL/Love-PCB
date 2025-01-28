@@ -4,8 +4,8 @@
 This is a a Repository containing the design to the Love PCB.
 
 [![License](https://img.shields.io/badge/License-Opensource-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/your_username/power-system-analysis-codes.svg)](https://github.com/your_username/power-system-analysis-codes/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/your_username/power-system-analysis-codes.svg)](https://github.com/your_username/power-system-analysis-codes/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/your_username/power-system-analysis-codes.svg)](https://github.com/VoarL/Love-PCB/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/your_username/power-system-analysis-codes.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
 ## Table of Contents
 
