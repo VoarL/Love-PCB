@@ -4,7 +4,7 @@
 This is a a Repository containing the design to the Love PCB.
 
 [![License](https://img.shields.io/badge/License-Opensource-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/your_username/power-system-analysis-codes.svg)](https://github.com/VoarL/Love-PCB/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/your_username/power-system-analysis-codes.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
 ## Table of Contents
@@ -30,7 +30,7 @@ In this repository, you will find the gerber files to create your own PCB for Va
 
 ## Installation
 
-- BOM included, buy the parts and solder!
+- BOM included, buy the parts and solder! Note if using CR123a then use 510 ohm 1206 resistors otherwise 270 ohm 1206 resistors (CR2032)
 - Send these specs to any fabhouse: 101.3x92.8mm 2 Layers,Thickness:1.6 mm, Finished copper:1,Surface finish:HASL lead free
   
 ## Usage
