@@ -24,8 +24,8 @@ In this repository, you will find the repo to create your own PCB for Valentines
 
 - A very unique gift to give to someone special
 - Contains images of roses, chocolates, earrings, and lip gloss
-- A very neat message that can be customized upon request
-- Runs of CR2032 batteries or CR123A batteries
+- A very cute message that can be customized upon request
+- Runs off CR2032 batteries or CR123A batteries
 - Pretty RGB LEDS 
 
 ## Installation
