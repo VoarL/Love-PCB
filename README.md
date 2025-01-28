@@ -3,7 +3,7 @@
 
 This is a a Repository containing the design to the Love PCB.
 
-[![License](https://img.shields.io/badge/License-Opensource-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-GNU%20GPL-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
