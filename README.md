@@ -7,9 +7,9 @@ This is a a Repository containing the design to the Love PCB.
 [![GitHub Issues](https://img.shields.io/github/issues/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
-![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5738.jpg)
-![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5739.jpg)
-![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5740.jpg)
+![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5738)
+![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5739)
+![image](https://github.com/VoarL/Love-PCB/tree/main/Assets/IMG_5740)
 
 ## Table of Contents
 
