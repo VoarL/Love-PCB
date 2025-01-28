@@ -7,10 +7,6 @@ This is a a Repository containing the design to the Love PCB.
 [![GitHub Issues](https://img.shields.io/github/issues/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/VoarL/Love-PCB.svg)](https://github.com/VoarL/Love-PCB/stargazers)
 
-![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5738.jpg?raw=true)
-![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5739.jpg?raw=true)
-![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5740.jpg?raw=true)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -48,4 +44,8 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5738.jpg?raw=true)
+![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5739.jpg?raw=true)
+![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5740.jpg?raw=true)
 
