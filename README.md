@@ -43,7 +43,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5739.jpg?raw=true)
 ![alt text](https://github.com/VoarL/Love-PCB/blob/main/Images/IMG_5738.jpg?raw=true)
